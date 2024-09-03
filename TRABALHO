@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matemática nas Profissões</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Matemática nas Profissões</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#introducao">Introdução</a></li>
+            <li><a href="#engenharia-civil">Engenharia Civil</a></li>
+            <li><a href="#engenharia-mecanica">Engenharia Mecânica</a></li>
+            <li><a href="#engenharia-eletrica">Engenharia Elétrica</a></li>
+            <li><a href="#engenharia-computacao">Engenharia de Computação</a></li>
+            <li><a href="#outras-profissoes">Outras Profissões</a></li>
+            <li><a href="#conclusao">Conclusão</a></li>
+        </ul>
+    </nav>
+
+    <section id="introducao">
+        <h2>Introdução</h2>
+        <p><strong>Importância da Matemática:</strong> A matemática é fundamental no cotidiano e nas profissões, especialmente nas engenharias, onde é usada para resolver problemas complexos e criar soluções inovadoras.</p>
+        <p><strong>Objetivo do Trabalho:</strong> Este site apresenta como a matemática é aplicada em diferentes campos da engenharia e outras profissões.</p>
+        <!-- Exemplo de Imagem -->
+        <img src="imagens/matematica.jpg" alt="Importância da Matemática" class="imagem-padrao">
+        <!-- Link para Vídeo -->
+        <p><a href =" https://youtu.be/zXiFaFkL9KQ?si=F_h72ulBcfBnhE9l target="_blank">Veja um vídeo sobre a importância da matemática no cotidiano</a></p>
+    </section>
+
+    <section id="engenharia-civil">
+        <h2>Matemática na Engenharia Civil</h2>
+        <p><strong>Cálculo Estrutural:</strong> Utiliza-se cálculos para garantir a estabilidade e segurança de construções.</p>
+        <p><strong>Geometria e Trigonometria:</strong> Esses conceitos são essenciais na medição de terrenos e na construção de pontes e edifícios.</p>
+        <!-- Exemplo de Imagem -->
+        <img src="imagens/engenharia-civil.jpg" alt="Engenharia Civil" class="imagem-padrao">
+        <!-- Link para Vídeo -->
+        <p><a href="https://youtu.be/jAGvgYza8Ao?si=3hFbbMljZu3g6lEu" target="_blank">Veja um vídeo sobre o uso de trigonometria na engenharia civil</a></p>
+    </section>
+
+    <section id="engenharia-mecanica">
+        <h2>Matemática na Engenharia Mecânica</h2>
+        <p><strong>Cálculo Diferencial e Integral:</strong> Essenciais para a análise de movimento e força em sistemas mecânicos.</p>
+        <p><strong>Álgebra Linear:</strong> Utilizada em sistemas de equações que modelam sistemas físicos.</p>
+        <!-- Exemplo de Imagem -->
+        <img src="imagens/engenharia-mecanica.jpg" alt="Engenharia Mecânica" class="imagem-padrao">
+        <!-- Link para Vídeo -->
+        <p><a href="https://youtu.be/0e4H4LVUC58?si=Z30PrW_GuNqyap3B" target="_blank">Veja um vídeo sobre a aplicação do cálculo na engenharia mecânica</a></p>
+    </section>
+
+    <section id="engenharia-eletrica">
+        <h2>Matemática na Engenharia Elétrica</h2>
+        <p><strong>Equações Diferenciais:</strong> Aplicadas na análise de circuitos elétricos.</p>
+        <p><strong>Teoria de Controle:</strong> Modelagem matemática de sistemas de controle.</p>
+        <!-- Exemplo de Imagem -->
+        <img src="imagens/engenharia-eletrica.jpg" alt="Engenharia Elétrica" class="imagem-padrao">
+        <!-- Link para Vídeo -->
+        <p><a href="https://youtu.be/rk8tVukzOLs?si=Z75kN8yVybMNS2vx" target="_blank">Veja um vídeo sobre equações diferenciais na engenharia elétrica</a></p>
+    </section>
+
+    <section id="engenharia-computacao">
+        <h2>Matemática na Engenharia de Computação</h2>
+        <p><strong>Algoritmos e Complexidade:</strong> A matemática é crucial no desenvolvimento de algoritmos eficientes.</p>
+        <p><strong>Criptografia:</strong> Uso da teoria dos números em segurança digital.</p>
+        <!-- Exemplo de Imagem -->
+        <img src="imagens/engenharia-computacao.jpg" alt="Engenharia de Computação" class="imagem-padrao">
+        <!-- Link para Vídeo -->
+        <p><a href="https://youtu.be/ZjdO2kBCtnI?si=iCQDnYgUup6qk7EP" target="_blank">Veja um vídeo sobre algoritmos e matemática na ciência da computação</a></p>
+    </section>
+
+    <section id="outras-profissoes">
+        <h2>Outras Profissões</h2>
+        <h3>Matemática na Arquitetura</h3>
+        <p><strong>Proporção e Simetria:</strong> A geometria é usada para criar projetos esteticamente agradáveis e funcionais, aplicando proporção áurea e simetria.</p>
+        <p><strong>Cálculo Estrutural:</strong> Arquitetos utilizam cálculos para garantir a segurança estrutural de seus projetos.</p>
+        <!-- Exemplo de Imagem -->
+        <img src="imagens/arquitetura.jpg" alt="Arquitetura" class="imagem-padrao">
+        <!-- Link para Vídeo -->
+        <p><a href="https://youtu.be/gW6HE_SIa-k?si=5CPp4dD6gW6ZLstw" target="_blank">Veja um vídeo sobre matemática e arquitetura</a></p>
+
+        <h3>Matemática na Medicina</h3>
+        <p><strong>Estatística e Pesquisa Clínica:</strong> Estatísticas são essenciais para interpretar resultados de pesquisas clínicas.</p>
+        <p><strong>Imagem Médica:</strong> Cálculo e álgebra linear são usados para reconstruir imagens em tomografias e ressonâncias magnéticas.</p>
+        <!-- Exemplo de Imagem -->
+        <img src="imagens/medicina.jpg" alt="Medicina" class="imagem-padrao">
+        <!-- Link para Vídeo -->
+        <p><a href="https://youtu.be/DSBHxRcMrzI?si=aSgor5UXt7KiPqVM" target="_blank">Veja um vídeo sobre matemática aplicada à medicina</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Matemática nas Profissões</p>
+    </footer>
+</body>
+</html>
